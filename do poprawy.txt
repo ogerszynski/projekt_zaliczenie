@@ -1,0 +1,4 @@
+- wylogowanie
+- rejestracja na rozne adresy
+- zadania widoczne dla roznych adresow wlasne
+- wyglad ogolem szerokosc okien
